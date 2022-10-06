@@ -10,18 +10,18 @@
 
 - Customer Support is one of the most polarizing topic when Feedback is concerned. While many
   companies provide a feedback form, a fraction of it is filled, making it an incomplete dataset to
-  understand where things can be improved.
+  understand and analyse where things can be improved. 
 - Similarly, even for customers, it'll be relatively less annoying to have to fill a feedback form
   after every customer call.
 - We came up with the idea of Feedback Prime to let companies analyse their support calls and have
   the **Symbl.ai** ML model analyse how the customer was feeling throughout the conversation to
-  understand where the majority of customers felt annoyed so that it can be improved upon.
+  understand where the majority of customers felt annoyed so that it can be improved further and, this can improve the customer support system.
 
 ## 💬 What it does:
 
-- It takes the link for the media file from the user, and then analyse the emotions for each
+- It ask user to fill the link of the audio file, and then analyse the emotions for each
   dialogue.
-- After the Analysis, Our app labels each dialogue with an emoticon to symbolize the emotion.
+- After the Analysis, Our app labels each dialogue with an emotion-emoji to symbolize the emotion.
 
 ## 🛠 How we built it
 
